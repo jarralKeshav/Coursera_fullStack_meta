@@ -1,0 +1,13 @@
+table,tr,th,td{
+    margin:4px 2px 2px 5px;
+    padding: 1px 2px 3px 5px;
+    /* border-with: 2px 3px 1px 4px; */
+    border: 2px solid black;
+    border-collapse: collapse;
+
+}
+
+
+#headingFirst{
+    border-width: medium;
+}
